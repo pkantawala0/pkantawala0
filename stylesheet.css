@@ -11,12 +11,14 @@ h1 {
 .wrapper {
 
     background: burlywood;
+    border: 15px solid black;
     margin: 24px;
     padding: 24px;
 }
 
 .picture {
-    background: lightsalmon;
+    background: lightgoldenrodyellow;
+    border: 15px solid black;
     margin: 24px;
     padding: 24px;
 }
