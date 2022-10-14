@@ -11,19 +11,23 @@ h1 {
 .wrapper {
 
     background: burlywood;
-    border: 15px solid black;
+    border: 5px solid black;
     margin: 24px;
     padding: 24px;
 }
 
 .picture {
     background: lightgoldenrodyellow;
-    border: 15px solid black;
+    border: 5px solid black;
     margin: 24px;
     padding: 24px;
 }
 
 #name {
     font-family: "Arial";
-    color: white
+    color: white;
+}
+
+a:hover {
+    color: salmon;
 }
