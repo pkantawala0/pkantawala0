@@ -13,7 +13,7 @@ h1 {
 .wrapper {
     /* there are some built in colors like lightgray, 
         or you can use hex codes like #ffffff */
-    background: lightgray;
+    background: goldenrod;
 
     /* margin is the external spacing between this element and others */
     margin: 24px;
@@ -28,5 +28,5 @@ h1 {
 
 /* selects the element with id = adjective */
 #adjective {
-    font-family: "Comic Sans MS";
+    font-family: "Times New Roman";
 }
