@@ -4,21 +4,20 @@ body {
 }
 
 h1 {
-    /* using a sans-serif font for headings is popular when mixing different type faces
-        https://www.adobe.com/creativecloud/design/discover/serif-vs-sans-serif.html */
     font-family: Arial, Helvetica, sans-serif;
 }
 
-/* selects all elements of the wrapper class */
+/* selects wrapper class elements */
 .wrapper {
-    /* there are some built in colors like lightgray, 
-        or you can use hex codes like #ffffff */
-    background: goldenrod;
 
-    /* margin is the external spacing between this element and others */
+    background: burlywood;
     margin: 24px;
+    padding: 24px;
+}
 
-    /* padding is the internal spacing of this element */
+.picture {
+    background: lavender;
+    margin: 24px;
     padding: 24px;
 }
 
@@ -26,7 +25,7 @@ h1 {
     color: salmon;
 }
 
-/* selects the element with id = adjective */
-#adjective {
-    font-family: "Times New Roman";
+#name {
+    font-family: "Arial";
+    color: lightskyblue
 }
