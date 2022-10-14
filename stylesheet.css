@@ -16,16 +16,12 @@ h1 {
 }
 
 .picture {
-    background: lavender;
+    background: lightsalmon;
     margin: 24px;
     padding: 24px;
 }
 
-.salmon {
-    color: salmon;
-}
-
 #name {
     font-family: "Arial";
-    color: lightskyblue
+    color: white
 }
